@@ -1,3 +1,4 @@
+using Newtonsoft.Json.Linq;
 using One;
 
 namespace TestOne
@@ -7,7 +8,7 @@ namespace TestOne
     {
         [TestMethod]
         [DataRow(20,0)]
-        public void CalculateVotes_GivenAge_ReturnsElectionEligibilityYears(int age, int expected)
+        public void Calculate_GivenAge_ReturnsElectionEligibilityYears(int age, int expected)
         {
             //Arrange
             var electionEligibilityYears = new ElectionEligibilityYears();
@@ -17,6 +18,21 @@ namespace TestOne
 
             //Assert
             Assert.AreEqual(expected, result);
+
+        }
+
+        [TestMethod]
+        [DataRow(17, "Invalid Age")]
+        [DataRow(-1, "Invalid Age")]
+        [DataRow(0, "Invalid Age")]
+        public void Calculate_GivenInvalidAge_ThrowsError(int age, string expected)
+        {
+            //Arrange
+            var electionEligibilityYears = new ElectionEligibilityYears();
+
+            //Act
+            //Assert
+            Assert.ThrowsException<Exception>(() => electionEligibilityYears.Calculate(age), expected);
 
         }
     }

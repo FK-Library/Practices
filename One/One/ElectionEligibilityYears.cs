@@ -10,7 +10,10 @@ namespace One
     {
         public object Calculate(int age)
         {
+            if (age < 18) throw new Exception("Invalid Age");
+
             var eligibleYears = age - 18;
+            
             var eligibilityYears = 0;
 
             for (int i = 1; i < eligibleYears; i++)
