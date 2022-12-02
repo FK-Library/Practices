@@ -7,7 +7,12 @@ namespace TestOne
     public class NumberOfVotingYearsTest
     {
         [TestMethod]
-        [DataRow(20,0)]
+        [DataRow(18, 0)]
+        [DataRow(19, 0)]
+        [DataRow(20, 0)]
+        [DataRow(21, 0)]
+        [DataRow(22, 1)]
+        [DataRow(23, 1)]
         public void Calculate_GivenAge_ReturnsElectionEligibilityYears(int age, int expected)
         {
             //Arrange
