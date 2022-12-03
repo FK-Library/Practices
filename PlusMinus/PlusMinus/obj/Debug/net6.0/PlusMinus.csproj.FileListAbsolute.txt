@@ -1,0 +1,15 @@
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\bin\Debug\net6.0\PlusMinus.exe
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\bin\Debug\net6.0\PlusMinus.deps.json
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\bin\Debug\net6.0\PlusMinus.runtimeconfig.json
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\bin\Debug\net6.0\PlusMinus.dll
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\bin\Debug\net6.0\PlusMinus.pdb
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.csproj.AssemblyReference.cache
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfo.cs
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.dll
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\refint\PlusMinus.dll
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.pdb
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\PlusMinus.genruntimeconfig.cache
+C:\Users\Price's\source\repos\xmas22\Xmas22\PlusMinus\PlusMinus\obj\Debug\net6.0\ref\PlusMinus.dll
