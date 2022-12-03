@@ -34,10 +34,8 @@ namespace PlusMinus
             
 
             Console.WriteLine($"{pozitive}");
-            Console.WriteLine(pozitive.ToString());
-
             Console.WriteLine($"{negative}");
-            Console.WriteLine($"{zero}", zero);
+            Console.WriteLine($"{zero}");
         }
     }
 
